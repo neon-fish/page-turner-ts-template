@@ -1,0 +1,21 @@
+{
+  "name": "page-turner-js-template",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.html",
+  "author": "Ed Johnson, Neon Fish Software Ltd.",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@neonfish/page-turner": "^0.1.9",
+    "mithril": "^2.0.4"
+  },
+  "devDependencies": {
+    "@types/mithril": "^2.0.8",
+    "vite": "^2.7.13"
+  }
+}
